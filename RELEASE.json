@@ -1,7 +1,7 @@
 {
-  "release_id": "2026-10-09.1",
-  "version": "0.2.11",
-  "manifest_sha256": "1a32c32b49bce5f0f3f6c2cc54836beac318eeba4d95c0ef4fe756f158028e7d",
-  "built_from_commit": "6bb1658487d3a91abf860fefacabd1f99d9441a8",
-  "released_at": "2026-10-09T13:44:24Z"
+  "release_id": "2026-10-09.2",
+  "version": "0.2.12",
+  "manifest_sha256": "4049a11d1dd77d8e8f00c013a83e85e1ea0b68ded78df882cfa73e29435fc0a7",
+  "built_from_commit": "f50ad7d1fac406631b2f9c56ec7d6e181347606f",
+  "released_at": "2026-10-09T19:27:56Z"
 }
